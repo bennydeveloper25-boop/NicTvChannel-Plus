@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>m3u_url</key>
+        <value>https://example.com/demo.m3u8</value>
+    </entry>
+</defaultsMap>
